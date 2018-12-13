@@ -1,0 +1,36 @@
+$roug: #FF00;
+
+img{
+  max-width : 100%;
+}
+
+.chiffres{
+  display:flex;
+  flex-wrap:wrap;
+
+
+}
+
+.chiffres:nth-child(1){
+
+}
+
+.pack{
+  display:flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  width:45%;
+}
+
+
+
+@media all and (min-width: 769px){
+
+.article{
+  padding: 20px 20%;
+}
+}
+
+@media all and (min-width: 1170px){
+
+}

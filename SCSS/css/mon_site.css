@@ -1,0 +1,23 @@
+img {
+  max-width: 100%;
+}
+
+.chiffres {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.pack {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  width: 45%;
+}
+
+@media all and (min-width: 769px) {
+  .article {
+    padding: 20px 20%;
+  }
+}
+
+/*# sourceMappingURL=mon_site.css.map */
