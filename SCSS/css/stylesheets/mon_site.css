@@ -47,6 +47,11 @@ body {
     font-family: 'Montserrat', sans-serif
 }
 
+.marges{
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
 .container {
     padding: 2em
 }
